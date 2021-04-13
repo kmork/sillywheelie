@@ -3,7 +3,7 @@ const UrbanExplorer=()=>{
     return (
         <div className={"urbanExplorer"}>
             <header className="App-header">
-                <p><i>Rolling to a street near you!</i></p>
+                <p><i>Riding in a street near you!</i></p>
                 <h1>Oslo Urban Unicycle Explorer</h1>
 
 

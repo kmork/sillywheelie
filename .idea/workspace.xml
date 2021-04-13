@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870f48b9-b3fa-455f-a194-e1bd5bd62a38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/20210409_172904.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/DetailedMap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/UrbanExplorer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/UrbanExplorer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -40,8 +41,8 @@
       <recent name="$PROJECT_DIR$/src/Components" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/Components" />
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -84,7 +85,7 @@
       <updated>1617910181640</updated>
       <workItem from="1617910183313" duration="465000" />
       <workItem from="1617910677608" duration="13204000" />
-      <workItem from="1618326477474" duration="4791000" />
+      <workItem from="1618326477474" duration="5911000" />
     </task>
     <task id="LOCAL-00001" summary="Add navigation menu and separate sections">
       <created>1618327560138</created>

@@ -5,6 +5,7 @@ import {Front} from "./Components/Front";
 import {UrbanExplorer} from "./Components/UrbanExplorer";
 import {CompletedMap} from "./Components/CompletedMap";
 import {Stats} from "./Components/Stats";
+import {DetailedMap} from "./Components/DetailedMap";
 
 class App extends Component {
     render() {
@@ -14,6 +15,7 @@ class App extends Component {
               <Front/>
               <UrbanExplorer/>
               <CompletedMap/>
+              <DetailedMap/>
               <Stats/>
           </div>
       );

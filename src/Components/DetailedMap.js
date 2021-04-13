@@ -4,8 +4,8 @@ const DetailedMap=()=>{
     return (
         <div className="detailedMap">
             <header className="App-header">
-                <h1>Level 1: Inside Ring 3</h1>
-                <img src={map} className="App-logo" alt="logo" />
+                <h1>Roads completed</h1>
+                <img src={map} className="App-logo" alt="map" />
             </header>
         </div>
     );

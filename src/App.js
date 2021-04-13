@@ -1,16 +1,23 @@
-import logo from './20201216_134117.jpg';
+import React, { Component } from "react";
 import './App.css';
+import Navbar from "./Components/Navbar";
+import {Front} from "./Components/Front";
+import {UrbanExplorer} from "./Components/UrbanExplorer";
+import {CompletedMap} from "./Components/CompletedMap";
+import {Stats} from "./Components/Stats";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-          <h1>Silly Wheelie</h1>
-          <p>Rolling to a street near you!</p>
-      </header>
-    </div>
-  );
+class App extends Component {
+    render() {
+        return (
+          <div className="App">
+              <Navbar/>
+              <Front/>
+              <UrbanExplorer/>
+              <CompletedMap/>
+              <Stats/>
+          </div>
+      );
+    }
 }
 
-export default App;
+export default App

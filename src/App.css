@@ -29,6 +29,13 @@
 
 .wide-border {
   pointer-events: none;
+  background-color: var(--off-white);
+  color: darkslategray;
+  width: 90%;
+}
+
+.stats {
+  width: 90%;
 }
 
 .section {

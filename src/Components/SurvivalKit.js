@@ -1,13 +1,13 @@
 import React from 'react';
-import pen from "../pen.jpg";
+import pen from "../pen.png";
 import book from "../loe.jpg";
 import korona from "../korona.png";
-import uni from "../KH_Muni_275_Black.jpg";
+import uni from "../unicycle.png";
 import map from "../20210409_172904.jpg";
 
 const Survival=()=>{
     return (
-        <div className={"stats"}>
+        <div className={"survival"}>
             <header className="App-header">
                 <h2>Survival kit</h2>
                 <table className="wide-border">

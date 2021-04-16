@@ -5,7 +5,7 @@ const Stats=()=>{
         <div className={"stats"}>
             <header className="App-header">
                 <h1>Statistics</h1>
-                <table>
+                <table className="stats">
                     <tr align="left">
                         <td>Total cycling time:</td>
                         <td>39 hours</td>

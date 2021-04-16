@@ -9,7 +9,7 @@ const Survival=()=>{
     return (
         <div className={"stats"}>
             <header className="App-header">
-                <h1>Survival kit</h1>
+                <h2>Survival kit</h2>
                 <table className="wide-border">
                     <tr>
                         <td colSpan="5">&nbsp;</td>

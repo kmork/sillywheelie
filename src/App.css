@@ -22,6 +22,15 @@
   color: lightgrey;
 }
 
+.small-images {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.wide-border {
+  pointer-events: none;
+}
+
 .section {
   margin: 2rem;
 }

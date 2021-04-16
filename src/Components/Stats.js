@@ -51,6 +51,14 @@ const Stats=()=>{
                         <td>6</td>
                     </tr>
                     <tr align="left">
+                        <td>Num old men joking "you've lost a wheel!":</td>
+                        <td>5</td>
+                    </tr>
+                    <tr align="left">
+                        <td>Num children shouting "You should work on a cirkus":</td>
+                        <td>17</td>
+                    </tr>
+                    <tr align="left">
                         <td>Longest distance before jumping off:</td>
                         <td>5 km</td>
                     </tr>

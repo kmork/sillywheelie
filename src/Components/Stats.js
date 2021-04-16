@@ -27,14 +27,6 @@ const Stats=()=>{
                         <td>0</td>
                     </tr>
                     <tr align="left">
-                        <td>Average speed:</td>
-                        <td>?</td>
-                    </tr>
-                    <tr align="left">
-                        <td>Average km per round:</td>
-                        <td>?</td>
-                    </tr>
-                    <tr align="left">
                         <td>Max speed:</td>
                         <td>12,5 km/h</td>
                     </tr>
@@ -51,11 +43,11 @@ const Stats=()=>{
                         <td>6</td>
                     </tr>
                     <tr align="left">
-                        <td>Num old men joking "you've lost a wheel!":</td>
+                        <td>Old men joking "You've lost a wheel!":</td>
                         <td>5</td>
                     </tr>
                     <tr align="left">
-                        <td>Num children shouting "You should work on a cirkus":</td>
+                        <td>Children shouting: "You should work on a cirkus":</td>
                         <td>17</td>
                     </tr>
                     <tr align="left">

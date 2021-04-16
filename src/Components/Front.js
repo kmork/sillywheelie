@@ -4,9 +4,8 @@ const Front=()=>{
     return (
         <div className={"front"}>
             <header className="App-header">
-                <h4><i>Trunk-based production presents...</i></h4>
                 <img src={logo} className="App-logo" alt="logo" />
-                <h1>Silly Wheelie</h1>
+                <br/>
                 <p>"We are all clowns" - <i>The Joker</i></p>
             </header>
         </div>

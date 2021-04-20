@@ -8,11 +8,11 @@ const Stats=()=>{
                 <table className="stats">
                     <tr align="left">
                         <td>Total cycling time:</td>
-                        <td>39 hours</td>
+                        <td>47 hours</td>
                     </tr>
                     <tr align="left">
                         <td>Total distance:</td>
-                        <td>307,8 km</td>
+                        <td>354,4 km</td>
                     </tr>
                     <tr align="left">
                         <td>Number of bikes:</td>

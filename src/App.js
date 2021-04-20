@@ -5,7 +5,8 @@ import {UrbanExplorer} from "./Components/UrbanExplorer";
 import {Survival} from "./Components/SurvivalKit";
 import {CompletedMap} from "./Components/CompletedMap";
 import {Stats} from "./Components/Stats";
-import {DetailedMap} from "./Components/DetailedMap";
+import {RoadsCompleted} from "./Components/RoadsCompleted";
+import {Roads} from "./Components/Roads";
 
 class App extends Component {
     render() {
@@ -15,8 +16,9 @@ class App extends Component {
               <UrbanExplorer/>
               <Survival/>
               <CompletedMap/>
-              <DetailedMap/>
               <Stats/>
+              <RoadsCompleted/>
+              <Roads/>
           </div>
       );
     }

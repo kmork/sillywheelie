@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="870f48b9-b3fa-455f-a194-e1bd5bd62a38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/roadsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/roadsData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Stats.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,8 @@
       <workItem from="1618953939239" duration="50000" />
       <workItem from="1618954239203" duration="4113000" />
       <workItem from="1619001807139" duration="1837000" />
-      <workItem from="1619122636603" duration="4625000" />
+      <workItem from="1619122636603" duration="4835000" />
+      <workItem from="1619304515804" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="Add navigation menu and separate sections">
       <created>1618327560138</created>

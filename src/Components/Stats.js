@@ -16,7 +16,7 @@ const Stats=()=>{
                     </tr>
                     <tr align="left">
                         <td>Number of bikes:</td>
-                        <td>1</td>
+                        <td>2</td>
                     </tr>
                     <tr align="left">
                         <td>Number of falls:</td>

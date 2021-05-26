@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,7 +89,12 @@
       <workItem from="1618954239203" duration="4113000" />
       <workItem from="1619001807139" duration="1837000" />
       <workItem from="1619122636603" duration="4835000" />
-      <workItem from="1619304515804" duration="373000" />
+      <workItem from="1619304515804" duration="958000" />
+      <workItem from="1619523846450" duration="208000" />
+      <workItem from="1620050247730" duration="397000" />
+      <workItem from="1620053844795" duration="3853000" />
+      <workItem from="1620285123542" duration="2208000" />
+      <workItem from="1620370088577" duration="7108000" />
     </task>
     <task id="LOCAL-00001" summary="Add navigation menu and separate sections">
       <created>1618327560138</created>

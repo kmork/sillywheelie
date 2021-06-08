@@ -7,6 +7,7 @@ import {CompletedMap} from "./Components/CompletedMap";
 import {Stats} from "./Components/Stats";
 import {RoadsCompleted} from "./Components/RoadsCompleted";
 import {Roads} from "./Components/Roads";
+import {Trailer} from "./Components/Trailer";
 
 class App extends Component {
     render() {
@@ -14,6 +15,7 @@ class App extends Component {
           <div className="App">
               <Front/>
               <UrbanExplorer/>
+              <Trailer/>
               <Survival/>
               <CompletedMap/>
               <Stats/>

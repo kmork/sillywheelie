@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870f48b9-b3fa-455f-a194-e1bd5bd62a38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Trailer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CompletedMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CompletedMap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Stats.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,14 +38,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Components" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Components" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/Components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -93,7 +97,8 @@
       <workItem from="1620050247730" duration="397000" />
       <workItem from="1620053844795" duration="3853000" />
       <workItem from="1620285123542" duration="2208000" />
-      <workItem from="1620370088577" duration="7175000" />
+      <workItem from="1620370088577" duration="7392000" />
+      <workItem from="1622469823240" duration="2223000" />
     </task>
     <task id="LOCAL-00001" summary="Add navigation menu and separate sections">
       <created>1618327560138</created>
